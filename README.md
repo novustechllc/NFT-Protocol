@@ -1,10 +1,8 @@
-<a href="https://originbyte.io/">
-    <h1><img src="./assets/logo.svg" alt="OriginByte" width="50%"></h1>
-</a>
+#NFT Protocol on SUI
 
 <h3>A new approach to Digital Assets</h3>
 
-Origin-Byte is an ecosystem of tools, standards, and smart contracts designed to make life easier for Digital Asset Creaters, from Web3 Game Developers, NFT creators, creators of Tokenized Media or non-standard OTC assets.
+This is an ecosystem of tools, standards, and smart contracts designed to make life easier for Digital Asset Creaters, from Web3 Game Developers, NFT creators, creators of Tokenized Media or non-standard OTC assets.
 
 From simple artwork to complex gaming assets, we want to help you reach the public, and provide on-chain market infrastructure.
 
