@@ -1,4 +1,4 @@
-#NFT Protocol on SUI
+# NFT Protocol on SUI
 
 <h3>A new approach to Digital Assets</h3>
 
